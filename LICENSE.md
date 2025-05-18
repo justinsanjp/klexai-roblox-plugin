@@ -1,6 +1,6 @@
 # KlexAI Plugin License Agreement
 
-© 2025 [Your Name or Company]
+© 2025 Justin W. aka justinsanjp
 
 ### 1. License Grant  
 The licensee is granted a non-exclusive, non-transferable right to use the plugin for both private and commercial purposes.
